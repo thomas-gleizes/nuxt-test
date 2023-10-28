@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxt/image": "^1.0.0",
     "@pandacss/dev": "^0.17.3",
     "nuxt": "^3.8.0",
     "prettier": "^3.0.3",
